@@ -3,7 +3,7 @@
 
 Task_04: To-do Web App
 
-Checkout here: https://lnkd.in/g-wzkuE9
+Checkout here: https://ajayd17.github.io/SCT_WD_4/
 
 #SkillCraftTechnology
 #Internship
